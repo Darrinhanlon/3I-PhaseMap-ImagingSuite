@@ -1,0 +1,20 @@
+{
+  "title": "Quantum Echo Imaging Suite",
+  "author": "James Hanlon",
+  "timestamp": "2025-10-07T22:21:00Z",
+  "suite": "3I–QuantumEcho–ImagingSuite",
+  "status": "modular, clean, unentangled",
+  "modules": [
+    "coherence_mapping",
+    "phase_retrieval",
+    "photon_statistics",
+    "feature_detection"
+  ],
+  "collaboration": {
+    "invitation": "Open to symbolic overlays and timestamped contributions",
+    "license": "To be determined"
+  }
+}
+symbolic_overlay.json
+Add symbolic overlay metadata for imaging suite
+
