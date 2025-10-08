@@ -1,0 +1,7 @@
+Proposed Next-Generation Imaging Framework for the 3I/Atlas Streak:
+
+We propose a comprehensive imaging pipeline that reconstructs wavefront phase and spatial coherence, treating the emission as a phase-aligned corridor. This framework integrates spatial coherence mapping (Γ), iterative phase retrieval, and photon-counting/statistics-appropriate compressed sensing.
+
+By projecting onto a physically plausible manifold informed by cometary scattering physics and empirical calibration, we distinguish true phase-preserving structures from artifacts. Our modular design incorporates cross-instrument transfer functions, adaptive priors, and real-time noise profiling—ensuring robustness and independent verifiability.
+
+We welcome collaboration across scientific communities. If raw photon-counting frames and system calibrations (PSF/MTF, flats/darks) are available, we can directly analyze the phase persistence of candidate corridors, confirming their nature as coherent astronomical features. Let’s explore this together.
